@@ -1,0 +1,39 @@
+header {
+    text-align: center;
+    font-family: "Lucida", sans-serif;
+    font-weight: 600;
+}
+
+h1 {
+    margin: 10px 0px 0px 0px;
+}
+
+hr {
+    width: 400px;
+    height: 2px;
+    background-color: black;
+}
+
+.etch-pad {
+    width: 544px;
+    height: 482px;
+    margin: 15px auto 0px auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.etch-row {
+    height: 15px;
+}
+
+.minisquare {
+    background-color: black;
+    border: 1px solid #cdc7c7;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    opacity: .1;
+}

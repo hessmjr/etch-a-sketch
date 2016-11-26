@@ -6,5 +6,5 @@ Simple Etch-A-Sketch web application created in javascript.
 
 ## Credits
 
-Odin Project
-Mark Hess
+- Odin Project
+- Mark Hess

@@ -2,7 +2,7 @@
 
 Simple Etch-A-Sketch web application created in javascript.
 
-[View in browser] (http://htmlpreview.github.com/?https://github.com/Hessmjr/etch-a-sketch/blob/master/index.html)
+[View in browser] (https://hessmjr.github.io/etch-a-sketch/)
 
 ## Credits
 
